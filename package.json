@@ -63,13 +63,12 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
-    "random-id": "1.0.3",
-
+    "random-id": "1.0.3"
   },
   "peerDependencies": {
     "react": ">= 0.14.0 < 17.0.0-0",
     "react-native": ">= 0.45.0",
     "styled-components": ">= 2.0.0 < 4",
-    "lottie-react-native":">= 2.6.1"
+    "lottie-react-native": ">= 2.6.1"
   }
 }
